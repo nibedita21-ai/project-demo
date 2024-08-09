@@ -3,6 +3,6 @@ This is my first git repository
 <br>
 nibedita swain
 <br>
-KIIT UNIVERSITY
+KIIT (patia)
 <br>
 bhubaneswar
